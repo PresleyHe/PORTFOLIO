@@ -87,3 +87,23 @@ header nav ul li a:hover {
     border-radius: 10px;
     width: 25%;
 }
+/* Projects Section */
+.projects {
+    padding: 50px 20px;
+    text-align: center;
+}
+.project-list {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.project-item {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    width: 25%;
+}
+.project-item{
+    image-rendering: ;
+}
